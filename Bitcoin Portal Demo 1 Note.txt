@@ -1,0 +1,44 @@
+kasunperera@gmail.com
+
+
+Password must be 6 to 20 long, least one numeric, 1 uppercase and 1 lowercase letter
+
+Bituser1
+
+----------------------------------------------------------
+
+user  can only delete or modify own blos post.
+
+----------------------------------------------------------
+	Valid VISA payment:
+
+	Card number: 4242 4242 4242 4242
+	Expiry: [Any date in the future e.g. 12/25]
+	CVV: [Any 3 digits e.g. 404]
+
+
+-----------------------------------------------------------
+Let's register by using real email address and see the received email from this portal
+untill this kasunperera@gmail.com email is a fake one I cannot inspect email.
+
+
+New user
+
+tombraider085@gmail.com
+Bituser1  (any password can give, i use this pasw for convinience
+
+Lets' make some changes on DB to demo
+
+User will recive an email once their alert package has expired.
+alert packges expired once no of alerts are become 0
+
+lets make remaining alerts to 1
+
+Find specific row to the current user along with login id
+Table: useralertPackage -> BitUserId = table:Login:loginId
+
+Remaining alerts are now updated as 0
+
+Email has received
+
+THE END
